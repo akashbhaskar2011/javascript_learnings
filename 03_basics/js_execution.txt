@@ -1,0 +1,9 @@
+javscript execution context
+
+- global execution conctext 
+funtion execution context
+eval execution contextex
+ 
+
+ it executes in 2 phases -- 1. memomy creation phases -- just memory allocation
+                            2. execution phase --
